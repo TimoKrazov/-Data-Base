@@ -1,0 +1,10 @@
+DROP TABLE connection_anime_genre;
+DROP TABLE connection_anime_user;
+DROP TABLE connection_anime_voice_over_studio;
+DROP TABLE genre;
+DROP TABLE poster;
+DROP TABLE presentation;
+DROP TABLE rating_reviews;
+DROP TABLE users;
+DROP TABLE voice_over_studio;
+DROP TABLE anime;
